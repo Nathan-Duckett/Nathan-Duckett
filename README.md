@@ -1,4 +1,6 @@
-### Hi there 👋
+## Nathan Duckett's Github
+
+This is a collection of random pieces of code which I worked on.
 
 <!--
 **Nathan-Duckett/Nathan-Duckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
