@@ -6,11 +6,13 @@ This is a collection of random pieces of code which I worked on.
 - [Homepage](https://nathan-duckett.github.io/Homepage/)
 - [Credo Property Management (Freelance job when I started)](https://nathan-duckett.github.io/Credo/)
 
-### Quick Project Index
-- DockerMasterConfiguration - Docker compose configurations for server services
-- Docker-Images - Custom created Dockerfile images
-- Dev-Scripts - Scripts to help with development
-- Build-Scripts - Scripts to help with setting up and configuring machines
+### Quick DevOps Project Index:
+- [DockerMasterConfiguration](https://github.com/Nathan-Duckett/DockerMasterConfiguration) - Docker compose configurations for server services
+- [Docker-Images](https://github.com/Nathan-Duckett/Docker-Images) - Custom created Dockerfile images
+- [Dev-Scripts](https://github.com/Nathan-Duckett/Dev-Scripts) - Scripts to help with development
+- [Build-Scripts](https://github.com/Nathan-Duckett/Build-Scripts) - Scripts to help with setting up and configuring machines
+
+There are other repos which you can feel free to explore.
 
 <!--
 **Nathan-Duckett/Nathan-Duckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
