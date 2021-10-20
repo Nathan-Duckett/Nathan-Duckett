@@ -4,7 +4,7 @@ This is a collection of random pieces of code which I worked on.
 
 ### Live Websites:
 - [Homepage](https://nathan-duckett.github.io/Homepage/)
-- [Cribbage Counter](https://nathan-duckett.github.io/cribbage-counter/)
+- [Cribbage Score Counter](https://nathan-duckett.github.io/cribbage-scores/)
 - [Credo Property Management (Freelance job when I started)](https://nathan-duckett.github.io/Credo/)
 
 ### Quick DevOps Project Index:
