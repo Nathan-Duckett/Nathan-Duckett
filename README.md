@@ -16,7 +16,6 @@ This is a collection of random pieces of code which I worked on.
 There are other repos which you can feel free to explore.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Duckett&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
-![](https://github-readme-stats.vercel.app/api?username=Nathan-Duckett&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 <!--
 **Nathan-Duckett/Nathan-Duckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
